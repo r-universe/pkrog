@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "biodbExpasy"]
-	path = biodbExpasy
-	url = https://git.bioconductor.org/packages/biodbExpasy
-[submodule "biodbNci"]
-	path = biodbNci
-	url = https://git.bioconductor.org/packages/biodbNci
 [submodule "fscache"]
 	path = fscache
 	url = https://gitlab.com/dbapis/r-fscache
