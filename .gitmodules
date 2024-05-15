@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "fscache"]
 	path = fscache
-	url = https://gitlab.com/dbapis/r-fscache
+	url = https://gitlab.com/cnrgh/databases
