@@ -8,3 +8,6 @@
 [submodule "sched"]
 	path = sched
 	url = https://github.com/cran/sched
+[submodule "sqlq"]
+	path = sqlq
+	url = https://github.com/cran/sqlq
